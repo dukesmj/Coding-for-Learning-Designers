@@ -1,0 +1,21 @@
+.correct {
+	color: green;
+
+}
+*{
+	font-family: arial; 
+}
+h2{
+	color: orange;
+}
+
+.question{ 
+	color: blue;
+ }
+ .feedback{
+ 	color: red;
+ }
+ div{
+ 	border: solid;
+ 	width: 500pt;
+ }
